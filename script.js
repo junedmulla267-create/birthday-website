@@ -3,7 +3,7 @@
 // ===========================
 
 const message =
-`Happy Birthday Anisa! 🎂
+`Happy Birthday Vasundhara! 🎂
 
 May your life always be filled with happiness,
 love, success and countless beautiful moments.
